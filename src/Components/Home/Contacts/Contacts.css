@@ -1,0 +1,20 @@
+.contacts-container{
+    background-image: url('https://webdesign-finder.com/comfort/wp-content/uploads/2017/08/slide02-1.jpg');
+    height: 600px;
+}
+.contacts-detail{
+    color: white;
+}
+.set-contacts{
+    margin-left: 50px;
+}
+.contacts-bg{
+    background-color: black;
+    z-index: 3;
+}
+.main-container{
+    font-size: 60px;
+    color: white;
+    font-weight: 300;
+    margin-top: 70px;
+}

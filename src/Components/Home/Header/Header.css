@@ -1,0 +1,9 @@
+.nav-hovers{
+    margin-right: 40px;
+}
+.nav-hovers:hover{
+    color: red;
+}
+.nav-header{
+    margin-left: 130px;
+}
