@@ -1,0 +1,17 @@
+.footer-content h2{
+    color: white;
+    text-align: left;
+    margin-left: 60px;
+    margin-top: 50px;
+    
+}
+.footer-content p{
+    color: white;
+    text-align: left;
+    margin-left: 60px;
+    
+}
+.footer-container{
+    height: 700px;
+    background-color: black
+}

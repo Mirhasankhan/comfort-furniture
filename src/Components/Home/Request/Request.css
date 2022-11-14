@@ -1,0 +1,16 @@
+.request-container{
+    height: 600px;
+    background-color: azure;
+}
+/* .input-container{
+    height: 20px;
+    width: 200px;
+    float: left;
+} */
+.send-button{
+   background-color: #A5DDD5;
+   height: 50px;
+   width: 160px;
+   border: 1px solid #A5DDD5;
+   color: white;
+}

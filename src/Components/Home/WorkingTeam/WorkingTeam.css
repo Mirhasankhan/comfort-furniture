@@ -1,0 +1,8 @@
+.work-container{
+    background-image: url('https://webdesign-finder.com/comfort/wp-content/uploads/2017/08/slide01-1.jpg');
+    height: 600px;
+    color: white;
+}
+.rose:hover{
+    color: #A5DDD5;
+}

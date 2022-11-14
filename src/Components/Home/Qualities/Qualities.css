@@ -1,0 +1,9 @@
+.read-button{
+    width: 170px;
+    height: 50px;
+    background-color: gold;
+    color: white;
+    border: 1px solid gold;
+    margin-top: 50px;
+    align-self: start;
+}

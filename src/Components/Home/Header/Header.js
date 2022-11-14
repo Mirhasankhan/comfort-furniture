@@ -7,7 +7,7 @@ const Header = () => {
     return (
         <div>
         <Navbar expand="lg">
-            <Container>
+            <Container >
                 <img className="m-3" src={logo} alt=""/>
                 <Navbar.Brand href="#home">COMFORT <strong style={{color: 'orange'}}>+</strong> <br/>FURNITURE COMPANY</Navbar.Brand>
                 <Navbar.Toggle aria-controls="basic-navbar-nav" />
@@ -27,8 +27,10 @@ const Header = () => {
                         </NavDropdown>
                         <Nav.Link href="#link"  className="nav-hovers">SHOP</Nav.Link>
                         <Nav.Link href="#link"  className="nav-hovers">SERVICES</Nav.Link>
-                        <Nav.Link href="#link"  className="nav-hovers">BLOG</Nav.Link>
-                        <Nav.Link href="#link"  className="nav-hovers">CONTACTS</Nav.Link>
+                        <Nav.Link href="#link"  className="nav-hovers">CONTACTS</Nav.Link>                       
+                        
+                        <Nav.Link href="/login"  className="nav-hovers"><button className="main-login">Login</button></Nav.Link>
+                        
                         
                     </Nav>
                 </Navbar.Collapse>
